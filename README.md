@@ -17,7 +17,9 @@ This project demonstrates how randomness and probability work together in a real
 - `rand()` and `srand()`  
 - Conditional statements (`if`, `switch`)  
 - `printf()` formatting  
+
 - Code modularity and clean structured
+- Code modularity and clean structure
 
 ### 📊 **Mathematical Concepts**
 - Probability distribution  
@@ -32,7 +34,10 @@ This project demonstrates how randomness and probability work together in a real
 2. Each die returns a random number between **1 and 6**.
 3. The program repeats this process **1,000,000 times** using a **for loop**.
 4. An **array** is used to count how many times each possible sum (2–12) appears.
+
 5. Finally, the program prints a **formatted table** showing the data of count and probability of each sum.
+5. Finally, the program prints a **formatted table** showing the count and probability of each sum.
+
 
 ---
 
@@ -45,7 +50,5 @@ Apply probability and frequency analysis
 Practice clean coding and documentation
 
 Experience real-world simulation modeling
-
-
 
 
