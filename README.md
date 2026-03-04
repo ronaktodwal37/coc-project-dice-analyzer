@@ -17,7 +17,7 @@ This project demonstrates how randomness and probability work together in a real
 - `rand()` and `srand()`  
 - Conditional statements (`if`, `switch`)  
 - `printf()` formatting  
-- Code modularity and clean structure
+- Code modularity and clean structured
 
 ### 📊 **Mathematical Concepts**
 - Probability distribution  
