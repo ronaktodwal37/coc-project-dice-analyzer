@@ -8,7 +8,7 @@ This project demonstrates how randomness and probability work together in a real
 
 ---
 
-## 🧠 Concepts Used
+## 🧠 Concepts Used To This
 
 ### 🧩 **C Programming Concepts**
 - `for` loops  
