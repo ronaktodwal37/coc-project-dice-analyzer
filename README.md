@@ -36,7 +36,7 @@ This project demonstrates how randomness and probability work together in a real
 4. An **array** is used to count how many times each possible sum (2–12) appears.
 
 5. Finally, the program prints a **formatted table** showing the data of count and probability of each sum.
-5. Finally, the program prints a **formatted table** showing the count and probability of each sum.
+5. Finally, the program prints a **formatted table** showing the count and probability of
 
 
 ---
