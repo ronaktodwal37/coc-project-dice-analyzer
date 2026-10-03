@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>  // for rand() and srand()
-// #include <time.h>    // for time()
+#include <time.h>    // for time()
 
 // Function to roll one die (returns number 1–6)
 // int roll_one_die() {
