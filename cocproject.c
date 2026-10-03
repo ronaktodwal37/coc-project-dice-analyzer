@@ -24,7 +24,7 @@ int main() {
 
     // Print results
     printf("Sum\tCount\t\tProbability (%%)\n");
-    printf("-----------------------------------\n");
+    // printf("-----------------------------------\n");
 
     // for (int s = 2; s <= 12; s++) {
         // double probability = (double)count[s] / total_rolls * 100;
