@@ -27,7 +27,7 @@ int main() {
     printf("-----------------------------------\n");
 
     for (int s = 2; s <= 12; s++) {
-        // double probability = (double)count[s] / total_rolls * 100;
+        double probability = (double)count[s] / total_rolls * 100;
         // printf("%2d\t%8d\t\t%.2f%%\n", s, count[s], probability);
     }
 
