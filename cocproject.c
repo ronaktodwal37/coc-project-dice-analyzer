@@ -3,9 +3,9 @@
 #include <time.h>    // for time()
 
 // Function to roll one die (returns number 1–6)
-int roll_one_die() {
+// int roll_one_die() {
     // return (rand() % 6) + 1;
-}
+// }
 
 int main() {
     int count[13] = {0}; // Array for sums 0–12 (we’ll use 2–12 only)
