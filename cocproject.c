@@ -19,7 +19,7 @@ int main() {
         die1 = roll_one_die();
         die2 = roll_one_die();
         sum = die1 + die2;
-        count[sum]++; // increment that sum’s count
+        // count[sum]++; // increment that sum’s count
     }
 
     // Print results
