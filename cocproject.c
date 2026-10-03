@@ -23,7 +23,7 @@ int main() {
     }
 
     // Print results
-    printf("Sum\tCount\t\tProbability (%%)\n");
+    // printf("Sum\tCount\t\tProbability (%%)\n");
     // printf("-----------------------------------\n");
 
     // for (int s = 2; s <= 12; s++) {
