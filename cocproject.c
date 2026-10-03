@@ -17,7 +17,7 @@ int main() {
     // Simulation
     for (long i = 0; i < total_rolls; i++) {
         die1 = roll_one_die();
-        die2 = roll_one_die();
+        // die2 = roll_one_die();
         // sum = die1 + die2;
         // count[sum]++; // increment that sum’s count
     }
