@@ -10,7 +10,7 @@ int roll_one_die() {
 int main() {
     int count[13] = {0}; // Array for sums 0–12 (we’ll use 2–12 only)
     long total_rolls = 1000000; // 1 million rolls
-    // int die1, die2, sum;
+    int die1, die2, sum;
 
     srand(time(0)); // seed random number generator
 
